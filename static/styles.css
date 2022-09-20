@@ -58,6 +58,7 @@ h1 {
     align-items: center;
     justify-content: center;
     text-align: center;
+
 }
 
 
@@ -66,13 +67,10 @@ h1 {
 }
 
 .btn {
-    position: absolute;
     color: #59493F;
     background-color: #FFE085;
     border-color: #F2D57E;
     align:center;
-    left: 45%;
-    width: 10%;
 }
 
 .btn:hover {
