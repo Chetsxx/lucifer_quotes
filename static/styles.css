@@ -1,11 +1,6 @@
 @import url('http://fonts.cdnfonts.com/css/supernatural-knight');
 
-
-@font-face {
-    font-family: 'Supernatural Knight', sans-serif;
-    src: url('http://fonts.cdnfonts.com/css/supernatural-knight');
-}
-
+font-family: 'Supernatural Knight', sans-serif;
 
 .homepage::{
     position: relative;
